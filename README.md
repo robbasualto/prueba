@@ -13,3 +13,4 @@ Repositorio de prueba con instrucciones para postulantes.
     <li>Crear un commit de los cambios con el mensaje "Ejercicio terminado a las {hora actual}"</li>
     <li>Enviar los cambios al remote master para verificación</li>
 </ul>
+
