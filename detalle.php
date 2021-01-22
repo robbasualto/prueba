@@ -44,7 +44,6 @@
         </main>
     <script language='javascript'>
 
-    
     function submitDetalleStorage() {
         var pelicula = sessionStorage.getItem("pelicula");
         var token = '?api_key=2599a98628cbf552614bfb7036c9e71f';
