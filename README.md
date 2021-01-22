@@ -3,7 +3,7 @@ Repositorio de prueba con instrucciones para postulantes.
 
 <h1>Instrucciones</h3>
 
-<p>La siguiente prueba tiene un límite de realización de 4 HORAS a contar desde que se envía el correo de notificación.</p>
+<p>La siguiente prueba tiene un límite de realización de 5 HORAS a contar desde que se envía el correo de notificación.</p>
 
 <ul>
     <li>Cree un Fork de este repositorio en su cuenta de Github.</li>
